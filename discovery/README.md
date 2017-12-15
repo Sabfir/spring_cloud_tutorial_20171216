@@ -1,1 +1,1 @@
-See the README.md file of the config server
+See the README.md file of the project root
