@@ -9,5 +9,5 @@ The most significant setting for the config server is the git.uri parameter. <br
  This is currently set to a relative file path that generally resolves to c:\Users\{username}\ on Windows or /Users/{username}/ on *nix. <br/>
  This property points to a Git repository where the property files for all the other applications are stored. <br/>
  It can be set to an absolute file path if necessary. <br/>
- <b/>
+ <br/>
 Tip: On a windows machine preface the value with ‘file:///’, on *nix then use ‘file://’. <br/>
